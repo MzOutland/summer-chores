@@ -42,6 +42,20 @@ This project simulates me doing summer chores without falling asleep.
     -```bash
     node promiseVersion.js
 
+# Version 3: Async/Await
+
+    -this version uses async and await instead of .then()
+    -async pauses until the promise resolves or rejects
+    -Try/catch is used to show when Angie falls asleep.
+
+# File:
+
+    -`asyncAwaitVersion.js`
+
+# How to run the file:
+
+    -node asyncAwaitVersion.js
+
 # Created by:
 
     -Angela Outland
